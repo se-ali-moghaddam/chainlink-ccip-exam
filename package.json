@@ -1,0 +1,17 @@
+{
+  "name": "chainlink-ccip-exam",
+  "version": "1.0.0",
+  "description": "This is a sample project for using Chainlink CCIP",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Moghaddam",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts-ccip": "^1.5.0",
+    "hardhat": "^2.22.17"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
