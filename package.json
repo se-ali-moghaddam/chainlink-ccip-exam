@@ -8,7 +8,9 @@
   "author": "Ali Moghaddam",
   "license": "ISC",
   "dependencies": {
+    "@chainlink/contracts": "^1.3.0",
     "@chainlink/contracts-ccip": "^1.5.0",
+    "@openzeppelin/contracts": "^4.6.0",
     "hardhat": "^2.22.17"
   },
   "devDependencies": {
